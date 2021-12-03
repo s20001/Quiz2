@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">クイズ</string>
+    <string name="quiz_title">4択クイズ</string>
+    <string name="quiz_start_button">開始</string>
+    <string name="quiz_result_button">結果</string>
+    <string name="quiz_ans_button">次へ</string>
+    <string-array name="quiz_list">
+        <item>1問目</item>
+        <item>2問目</item>
+        <item>3問目</item>
+        <item>4問目</item>
+        <item>5問目</item>
+        <item>6問目</item>
+    </string-array>
+</resources>
